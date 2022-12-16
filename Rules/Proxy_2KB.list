@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,blobstore.apple.com,Proxy
+DOMAIN-SUFFIX,itsliveradio.apple.com,Proxy
+DOMAIN-SUFFIX,aodp-ssl.apple.com,Proxy
+DOMAIN-SUFFIX,video-ssl.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,mvod.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,amazonaws.com,Proxy
+DOMAIN-SUFFIX,audio.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,xp.apple.com,DIRECT
+DOMAIN-SUFFIX,guzzoni.apple.com,DIRECT
