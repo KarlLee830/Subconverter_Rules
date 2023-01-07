@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,audio.itunes.apple.com,Proxy
 DOMAIN-SUFFIX,xp.apple.com,DIRECT
 DOMAIN-SUFFIX,guzzoni.apple.com,DIRECT
 
-# NAME: TikTok for iPhone
+# NAME: TikTok
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
