@@ -1,3 +1,5 @@
-# 内容：微软云盘Onedrive Windows客户端
+# 内容：微软云盘Onedrive客户端
 # 数量：1条
+# 备注：仅基于Windows Onedrive客户端测试，其他平台具体规则可能不一样，请具体测试。
+
 DOMAIN-SUFFIX,storage.live.com

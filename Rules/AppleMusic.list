@@ -1,3 +1,7 @@
+# 内容：Apple Music
+# 数量：11条
+# 备注：无。
+
 DOMAIN-SUFFIX,blobstore.apple.com,Proxy
 DOMAIN-SUFFIX,itsliveradio.apple.com,Proxy
 DOMAIN-SUFFIX,aodp-ssl.apple.com,Proxy
@@ -10,21 +14,3 @@ DOMAIN-SUFFIX,amazonaws.com,Proxy
 DOMAIN-SUFFIX,audio.itunes.apple.com,Proxy
 DOMAIN-SUFFIX,xp.apple.com,DIRECT
 DOMAIN-SUFFIX,guzzoni.apple.com,DIRECT
-
-# NAME: TikTok
-
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
-USER-AGENT,TikTok*
