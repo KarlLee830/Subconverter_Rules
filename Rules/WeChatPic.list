@@ -1,0 +1,7 @@
+# 内容：微信图片服务器
+# 数量：2条
+# 备注：解决微信图片加载缓慢的问题。
+
+# Wechat
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
