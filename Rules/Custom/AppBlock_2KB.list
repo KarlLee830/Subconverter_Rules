@@ -2,18 +2,6 @@
 # 数量：2条
 DOMAIN-KEYWORD,parallels
 DOMAIN-KEYWORD,plentycom
-DOMAIN-SUFFIX,ic.adobe.io
-DOMAIN-SUFFIX,p13n.adobe.io
-DOMAIN-SUFFIX,p13n-mr.adobe.io
-DOMAIN-SUFFIX,cai-identity.adobe.io
-DOMAIN-SUFFIX,dyzt55url8.adobe.io
-DOMAIN-SUFFIX,gw8gfjbs05.adobe.io
-DOMAIN-SUFFIX,2ftem87osk.adobe.io
-DOMAIN-SUFFIX,ph0f2h2csf.adobe.io
-DOMAIN-SUFFIX,7sj9n87sls.adobe.io
+DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,crs.cr.adobe.com
-DOMAIN-SUFFIX,photos.adobe.io
-DOMAIN-SUFFIX,lcs-cops.adobe.io
 DOMAIN-SUFFIX,cc-cdn.adobe.com
-DOMAIN-SUFFIX,cc-api-data.adobe.io
-DOMAIN-SUFFIX,cai-splunk-proxy.adobe.io
