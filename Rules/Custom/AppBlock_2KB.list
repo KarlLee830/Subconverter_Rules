@@ -1,6 +1,16 @@
 # 内容：一些你懂的原因需要屏蔽一些应用域名
 # 数量：2条
 DOMAIN-KEYWORD,plentycom
+
+#Adobe
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobegenuine.com
 DOMAIN-SUFFIX,adobedtm.com
+
+#yaagl
+DOMAIN,uspider.yuanshen.com
+DOMAIN,log-upload.mihoyo.com
+DOMAIN,public-data-api.mihoyo.com
+DOMAIN,log-upload-os.hoyoverse.com
+DOMAIN,sg-public-data-api.hoyoverse.com
+DOMAIN,overseauspider.yuanshen.com
