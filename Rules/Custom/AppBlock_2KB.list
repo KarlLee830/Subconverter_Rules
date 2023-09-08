@@ -142,3 +142,6 @@ DOMAIN,public-data-api.mihoyo.com
 DOMAIN,log-upload-os.hoyoverse.com
 DOMAIN,sg-public-data-api.hoyoverse.com
 DOMAIN,overseauspider.yuanshen.com
+
+#sparkmail
+DOMAIN,api.revenuecat.com
