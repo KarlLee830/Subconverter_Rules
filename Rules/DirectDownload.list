@@ -2,8 +2,6 @@
 # 数量：50条
 # 备注：无。
 
-# 罗技有关域名
-DOMAIN-KEYWORD,logitech
 # 英伟达驱动下载域名
 DOMAIN-SUFFIX,download.nvidia.com
 # Epic 下载域名
