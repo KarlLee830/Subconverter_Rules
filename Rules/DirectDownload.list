@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,download.nvidia.com
 # Epic 下载域名
 DOMAIN-KEYWORD,epicgames-download
 # Steam下载CDN分配决定规则
-DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,103.10.124.0/24,no-resolve
