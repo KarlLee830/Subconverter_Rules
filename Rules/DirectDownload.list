@@ -2,6 +2,8 @@
 # 数量：50条
 # 备注：无。
 
+# UU加速器
+PROCESS-NAME,uuplugin
 # 英伟达驱动下载域名
 DOMAIN-SUFFIX,download.nvidia.com
 # Epic 下载域名
