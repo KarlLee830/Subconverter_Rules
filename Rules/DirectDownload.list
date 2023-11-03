@@ -2,8 +2,13 @@
 # 数量：50条
 # 备注：无。
 
-# Windows 更新与商店
-DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+# Windows 相关新服务与应用商店
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,msedge.api.cdp.microsoft.com
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+DOMAIN-SUFFIX,emdl.ws.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
 # UU加速器
 PROCESS-NAME,uuplugin
 # 英伟达驱动下载域名
