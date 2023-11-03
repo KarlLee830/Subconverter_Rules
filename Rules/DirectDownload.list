@@ -2,6 +2,8 @@
 # 数量：50条
 # 备注：无。
 
+# Windows 更新与商店
+DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
 # UU加速器
 PROCESS-NAME,uuplugin
 # 英伟达驱动下载域名
