@@ -8,7 +8,7 @@ Modified from the [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) repo.
 
 The 2KB & 2XH files are configuration files written for my friend.
 
-The Router file is the configuration file used by my router.
+The 2Router file is the configuration file used by my router.
 
 ## Main modifications:
 
