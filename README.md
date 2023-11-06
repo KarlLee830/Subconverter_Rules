@@ -1,9 +1,9 @@
-# Clash Rules
+# Subconverter Rules
 
----
+The content of this repo is written primarily for Clash and Surge 4. It has not been tested for use by other clients.
 
 Some of the configuration and rules files I use myself.
-Modified from the [ACL4SSR] repo.
+Modified from the [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) repo.
 
 The 2KB & 2XH files are configuration files written for my friend.
 The Router file is the configuration file used by my router.
