@@ -1,12 +1,38 @@
+# Sources of some of the rules:
+#   https://github.com/G4free/clash-ruleset
+
+# ChatGPT
+
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+# NewBing
+
+DOMAIN,edgeservices.bing.com
+DOMAIN,www.bing.com
+DOMAIN,sydney.bing.com
+
+# Google Bard
+DOMAIN-SUFFIX,bard.google.com
+
+#cloude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,hsforms.net
+
+# Jetbrains AI Assistant
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,grazie.ai
+
+# Others
+
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,crowdin.com
