@@ -2,6 +2,8 @@
 # 数量：50条
 # 备注：无。
 
+# 动物派对中文论坛
+DOMAIN-SUFFIX,forum-china.partyanimals.com
 # Windows 相关更新服务与应用商店
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,msedge.api.cdp.microsoft.com
