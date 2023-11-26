@@ -213,6 +213,8 @@ IP-CIDR,61.241.47.0/24,no-resolve
 IP-CIDR,61.241.49.0/24,no-resolve
 IP-CIDR,43.156.86.0/24,no-resolve
 IP-CIDR,43.156.222.0/24,no-resolve
+IP-CIDR,43.130.194.0/24,no-resolve
+IP-CIDR,43.175.34.0/24,no-resolve
 
 
 # WeChat Pay SDK
