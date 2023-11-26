@@ -1,7 +1,6 @@
-# 内容：抖音快手与微信短视频
-# 备注：无
+# 内容：Douyin, Kuaishou and Weixin short video services
 
-# 快手
+# Kuaishou
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,etoote.com
 DOMAIN-SUFFIX,etoot.com
@@ -17,7 +16,7 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,kwaicdn.com
 
-# 抖音
+# Douyin
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,amemv.com
@@ -38,5 +37,5 @@ DOMAIN-SUFFIX,vc-gate.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,dig.bdurl.net
 
-# 微信短视频
+# Weixin
 DOMAIN-SUFFIX,szextshort.weixin.qq.com

@@ -1,23 +1,26 @@
-# 内容：Steam与英伟达等下载域名
-# 数量：50条
-# 备注：无。
+# The Service need to direct access
 
-# 动物派对中文论坛
+# partyanimals china forum
 DOMAIN-SUFFIX,forum-china.partyanimals.com
-# Windows 相关更新服务与应用商店
+
+# Windows Update & Microsoft Store
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,msedge.api.cdp.microsoft.com
 DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 DOMAIN-SUFFIX,emdl.ws.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,update.microsoft.com
-# UU加速器
+
+# UU Game Booster
 PROCESS-NAME,uuplugin
-# 英伟达驱动下载域名
+
+# Nvdia
 DOMAIN-SUFFIX,download.nvidia.com
-# Epic 下载域名
+
+# Epic
 DOMAIN-KEYWORD,epicgames-download
-# Steam下载CDN分配决定规则
+
+# Steam Game Download
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,103.10.124.0/24,no-resolve
