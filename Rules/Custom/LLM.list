@@ -26,6 +26,9 @@ DOMAIN,sydney.bing.com
 # Google Bard
 DOMAIN-SUFFIX,bard.google.com
 
+# Google Gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
 #cloude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
