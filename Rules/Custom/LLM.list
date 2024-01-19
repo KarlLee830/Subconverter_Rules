@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,bard.google.com
 
 # Google Gemini
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
 
 #cloude
 DOMAIN-SUFFIX,claude.ai
