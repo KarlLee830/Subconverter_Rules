@@ -6,9 +6,9 @@ Some of the configuration and rules files I use myself.
 
 Modified from the [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) repo.
 
-The 2KB & 2XH files are configuration files written for my friend.
+The 2KB files are configuration files written for my friend.
 
-The 2Router file is the configuration file used by my router.
+The Multi file is the configuration file used by my router.
 
 ## Main modifications:
 
