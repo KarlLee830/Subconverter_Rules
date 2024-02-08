@@ -1,5 +1,8 @@
 # The Service need to direct access
 
+# appstorrent.ru
+DOMAIN-SUFFIX,appstorrent.ru
+
 # partyanimals china forum
 DOMAIN-SUFFIX,forum-china.partyanimals.com
 
