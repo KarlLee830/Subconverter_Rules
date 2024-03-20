@@ -8,10 +8,6 @@ ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/KarlLee830/Clash_Rules/main/Rules/WeChat.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=⛔ 应用拦截,https://raw.githubusercontent.com/KarlLee830/Clash_Rules/main/Rules/Custom/AppBlock.list
@@ -42,7 +38,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-
 custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]🐰 兔兔`[]🛩️ Ari`[]🪙 一元`[]☁️ Cloudflare
 custom_proxy_group=🐰 兔兔`select`!!GROUPID=2
 custom_proxy_group=🛩️ Ari`select`!!GROUPID=1
@@ -62,7 +57,6 @@ custom_proxy_group=🍎 苹果服务`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🎮 游戏平台`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=📢 谷歌FCM`select`[]🚀 节点选择`[]DIRECT
 custom_proxy_group=📱 短视频`select`[]DIRECT`[]REJECT
-custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=⛔ 应用拦截`select`[]REJECT`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=⏬ Aria`select`[]DIRECT`.*
