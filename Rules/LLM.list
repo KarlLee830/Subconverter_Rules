@@ -4,7 +4,6 @@
 #   https://github.com/G4free/clash-ruleset
 
 # ChatGPT
-
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
@@ -17,20 +16,22 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
-# NewBing
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
 
+# NewBing
 DOMAIN,edgeservices.bing.com
 DOMAIN,www.bing.com
 DOMAIN,sydney.bing.com
 
-# Google Bard
-DOMAIN-SUFFIX,bard.google.com
-
 # Google Gemini
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 
-#cloude
+# Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,hsforms.net
@@ -38,3 +39,6 @@ DOMAIN-SUFFIX,hsforms.net
 # Jetbrains AI Assistant
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grazie.ai
+
+# Android Studio Bot
+DOMAIN,aida.googleapis.com
