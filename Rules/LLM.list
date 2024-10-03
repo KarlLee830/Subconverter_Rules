@@ -42,3 +42,6 @@ DOMAIN-SUFFIX,grazie.ai
 
 # Android Studio Bot
 DOMAIN,aida.googleapis.com
+
+# Groq
+DOMAIN-SUFFIX,groq.com
