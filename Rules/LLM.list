@@ -45,3 +45,6 @@ DOMAIN,aida.googleapis.com
 
 # Groq
 DOMAIN-SUFFIX,groq.com
+
+# AI Proxy
+DOMAIN-SUFFIX,gptuu.com
