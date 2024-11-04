@@ -148,3 +148,6 @@ DOMAIN,overseauspider.yuanshen.com
 
 #sparkmail
 DOMAIN,api.revenuecat.com
+
+#macs fan control
+DOMAIN-SUFFIX,crystalidea.license-manage.com
