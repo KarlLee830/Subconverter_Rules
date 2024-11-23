@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,crowdin.com
 DOMAIN-KEYWORD,myunidays
 DOMAIN-SUFFIX,reddit.com
+
+# Windows Network Connection Status Indicator
+DOMAIN-SUFFIX,msftncsi.com
