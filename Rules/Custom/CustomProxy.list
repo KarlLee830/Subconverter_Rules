@@ -2,6 +2,11 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,crowdin.com
 DOMAIN-KEYWORD,myunidays
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,npmmirror.com
 
 # Windows Network Connection Status Indicator
 DOMAIN-SUFFIX,msftncsi.com
