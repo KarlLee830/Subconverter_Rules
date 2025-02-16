@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 DOMAIN-SUFFIX,emdl.ws.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,software-download.microsoft.com
 
 # UU Game Booster
 PROCESS-NAME,uuplugin
