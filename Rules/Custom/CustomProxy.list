@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,npmmirror.com
+DOMAIN-SUFFIX,macwk.cn
 
 # Windows Network Connection Status Indicator
 DOMAIN-SUFFIX,msftncsi.com
