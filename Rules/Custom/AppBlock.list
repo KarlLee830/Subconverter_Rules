@@ -1,5 +1,3 @@
 # Some domains that need to be blocked
-DOMAIN-SUFFIX,xmind.app
-DOMAIN-SUFFIX,xmind.cn
-DOMAIN-SUFFIX,internetdownloadmanager.com
-DOMAIN-SUFFIX,registeridm.com
+DOMAIN-SUFFIX,api.lemonsqueezy.com
+DOMAIN-SUFFIX,screen.studio
